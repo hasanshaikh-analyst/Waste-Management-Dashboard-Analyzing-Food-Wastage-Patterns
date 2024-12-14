@@ -1,7 +1,7 @@
 # Waste Management Dashboard: Analyzing Food Wastage Patterns
 
 ## Overview
-Welcome to the **Waste Management Dashboard** repository! This Power BI dashboard provides a comprehensive analysis of food wastage patterns in restaurants. By examining various factors contributing to food waste, we aim to help stakeholders make informed decisions to minimize waste and promote sustainability in the food service industry.
+Welcome to the **Waste Management Dashboard** repository! This Power BI dashboard provides a comprehensive analysis of food wastage patterns in restaurants, offering valuable insights for stakeholders looking to reduce waste and improve sustainability practices. Through a series of engaging visualizations, this dashboard highlights key areas of food wastage, helping to drive informed decision-making.
 
 ## Dashboard Insights
 
